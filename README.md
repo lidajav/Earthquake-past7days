@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Mapping_Earthquakes
-=======
+
 # Earthquake-past7days
 
 - The Javascript file for this challenge is in Earthquake_Challenge.
