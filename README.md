@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Mapping_Earthquakes
+=======
+# Earthquake-past7days
 
 - The Javascript file for this challenge is in Earthquake_past7days branch.
 - This is to show a world map marking last week earhquakes on earth and marked by their magnitudes.
